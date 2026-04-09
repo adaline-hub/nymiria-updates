@@ -1,11 +1,11 @@
 {
-  "version": "1.0.6-beta.1",
-  "notes": "Beta: CLI timeout fix, Codex flag fix, API providers in model picker",
-  "pub_date": "2026-04-09T06:24:28.000Z",
+  "version": "1.0.6-beta.2",
+  "notes": "Streaming thoughts, tiered identity, new branding, feedback system, onboarding, telemetry",
+  "pub_date": "2026-04-09T19:41:54.000Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRdlNTU1k3RmZkaHRZeEtRSUJ2eG1hNUxRM0V1Qy9IN0dsUXllVkswUzQzMDlKYi84UW5ObTlEV2hGL0pBTThDMVRPemRrOUxLeVlZUm5vVVJaaHYyNFRHOUZwcFU4N3d3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1NzE0OTU0CWZpbGU6TnltaXJpYS5hcHAudGFyLmd6CnoyT1dqRnA3RzdlZHJlT2NtbDhDZFNiZ0xkdmlrNWJMdldQeGpYV2NVdjdNTUlhYlI5MUlNVW5oSTV2cG91RVBJSFJoOVArMFRObUxZUlM3VytySUNnPT0K",
-      "url": "https://github.com/adaline-hub/nymiria-updates/releases/download/v1.0.6-beta.1/Nymiria_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRdlNTU1k3RmZkaGxIcExpTFljVGoyUkdZTFRYNUZySFhsUzFZeVJ1MEttMi8zaDF5Z1BqZndYeDBBTXU3RVRoUVVFcE16dlFOMXFGTEFydFEwS3BuaUJxbXJ3R1hQTlE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1NzYwOTUxCWZpbGU6TnltaXJpYS5hcHAudGFyLmd6CmNpZ05LT2lvU2lUZ3Zva2N2V0dTYW8rS3p5K3NXZnd5MVgwMFhIWHJSUnRGbUQ0NWJhbVp4cHNXV3YvTTBLTWV5L1hiRnp3QW1RbGFSZUFjYVYwdEJnPT0K",
+      "url": "https://github.com/adaline-hub/nymiria-updates/releases/download/v1.0.6-beta.2/Nymiria_aarch64.app.tar.gz"
     }
   }
 }
