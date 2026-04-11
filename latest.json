@@ -5,7 +5,7 @@
   "platforms": {
     "darwin-aarch64": {
       "url": "https://github.com/adaline-hub/nymiria-updates/releases/download/v1.0.6-beta.4/Nymiria_aarch64.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRdlNTU1k3RmZkaHZiMFo3bHhnZTRmbzhvLy9Ba1lGSWd4WTduak5CV2JNZjBmUkdmK0drMlk2ZUt5YVhweWx2YkJrd3dRZDYyNzhMYjg5UUtTQ3pDenNtRzJlT3FNZnd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1ODczNjQ4CWZpbGU6TnltaXJpYS5hcHAudGFyLmd6ClZrOUM3V2tDVnNyRE5uZlF6RUVFTHpYVXN5dTRhdTdoaFFCR1FXVUlQOHRUZDNReTIybVlJdU9ubHBGc24rWUQzeU9rdXBCZjRYeWdqMHZOY3lQSEFRPT0K"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRdlNTU1k3RmZkaHFhL1pvQ2hxTXBVK0cyd2J5S2J2UWhzbDJ1aDhvdW1UYTYwVXRnemJNUm5Qd2dIRG92ZkxFK21WQzZ6Q01jLzltL1dkd3o4enNYV0QrQ2Z6dEpWbnc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1ODc1OTM3CWZpbGU6TnltaXJpYS5hcHAudGFyLmd6CkE1anU4ZUtremRURmlMSlY3dUFrN0VSMFU2c2VtcVNZTHlNbnBNQjYyT3FKRytjRklNYkZDTVNqOFljU29YUnlWbmxlb3lsblRWdTlRVXo0SG8xeENRPT0K"
     }
   }
 }
