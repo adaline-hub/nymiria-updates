@@ -1,11 +1,19 @@
 {
   "version": "1.0.6",
   "notes": "Nymiria v1.0.6 — streaming pipeline, MiniMax tool calling, classifier rewrite, new branding",
-  "pub_date": "2026-04-11T12:00:00Z",
+  "pub_date": "2026-04-11T22:58:00.649Z",
   "platforms": {
     "darwin-aarch64": {
-      "url": "https://github.com/adaline-hub/nymiria-updates/releases/download/v1.0.6/Nymiria_aarch64.app.tar.gz",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRdlNTU1k3RmZkaGk2YXNLb09Md3dGN1dKYTgxOExyWE5ORTEwV0plSmhCR3BRNWp4ZGdDakloc2hFNUR5MnF4dHlUZlJOMDF1V3IvTWUzaTF1bUJMd29aV0Y0TzZpeWdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1OTQ3MDUyCWZpbGU6TnltaXJpYS5hcHAudGFyLmd6CmRUb0FwUG9zTmE1NTFiMGhDak5pdkZzNmdnbm1pOW9MditzcjBOQ1l4dVRFZ3ErK01Mbld1RHpYWk9FMm5JSU5XekY0V0FQZXlQVXkxVUtSQU9SK0N3PT0K"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRdlNTU1k3RmZkaGk2YXNLb09Md3dGN1dKYTgxOExyWE5ORTEwV0plSmhCR3BRNWp4ZGdDakloc2hFNUR5MnF4dHlUZlJOMDF1V3IvTWUzaTF1bUJMd29aV0Y0TzZpeWdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1OTQ3MDUyCWZpbGU6TnltaXJpYS5hcHAudGFyLmd6CmRUb0FwUG9zTmE1NTFiMGhDak5pdkZzNmdnbm1pOW9MditzcjBOQ1l4dVRFZ3ErK01Mbld1RHpYWk9FMm5JSU5XekY0V0FQZXlQVXkxVUtSQU9SK0N3PT0K",
+      "url": "https://github.com/adaline-hub/nymiria-updates/releases/download/v1.0.6/Nymiria_aarch64.app.tar.gz"
+    },
+    "linux-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRdlNTU1k3RmZkaGpPS0l6bUxWaStSaHlEMzNnTldVb1MrdEFQVGJySGQ5UHVEdHJZd0k0SG1MZEkyVE10VXBhSkdvVndEQ2VpWGVDSFJBOGtvMHRaV2h3V1V0b0kzYmdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1OTQ4MDg0CWZpbGU6TnltaXJpYV8xLjAuNl9hbWQ2NC5BcHBJbWFnZQp3UkFRZWMzWmliZDNaMTJHUmEzSFJyMnVwc2Mxc1JZcG5PMncrcVpSYmxkTWpkaUJoQnN1S0ZIMkhxL0ozK1BiRjNZSDloQTZseFF0Yk9OQ09hZXdCZz09Cg==",
+      "url": "https://github.com/adaline-hub/nymiria-updates/releases/download/v1.0.6/Nymiria_1.0.6_amd64.AppImage"
+    },
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRdlNTU1k3RmZkaHZJenJxZzA3SDhUVlBQN3c3K0pCeGNLSlEvbkZZd1MyS0VLTFVOL2laajl1bDAxRXd5TFl1cFN0REJJd1RzYzB5WjNOMmhtWlI4SG9MQkNYYk9yUXdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1OTQ4Mjc3CWZpbGU6TnltaXJpYV8xLjAuNl94NjQtc2V0dXAuZXhlClBzcHVEaUtOc2tTOGJQU1lOeGVKcTlKOHNER1lPZnBrbGhTcXViZ3hYMzFSR0JSS2s0WFQ0clU0N20zY3RYRU5acjArb1JSeTh0aW9kaDJoZUdMU0NBPT0K",
+      "url": "https://github.com/adaline-hub/nymiria-updates/releases/download/v1.0.6/Nymiria_1.0.6_x64-setup.exe"
     }
   }
 }
