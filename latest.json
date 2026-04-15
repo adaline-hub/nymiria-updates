@@ -1,19 +1,11 @@
 {
-  "version": "v1.0.7",
-  "notes": "See the assets for this release to download and install.",
-  "pub_date": "2026-04-14T05:43:56Z",
+  "version": "v1.0.8-beta.1",
+  "notes": "Beta 1.0.8-beta.1 — internal testing build.",
+  "pub_date": "2026-04-15T22:17:13Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRdlNTU1k3RmZkaHBUYUlDNS8weGV2T2RsbWVYRjRGc2ZHOXFhRzBXUkVVUkhEcnlma3J3K2o4YXA3S0FVTHprSktZVEh0Y1hRblgxWldhUWVEWnVaaUY5SzhHMElLV2dBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2MTQ1NDMxCWZpbGU6TnltaXJpYS5hcHAudGFyLmd6CjNJajNzMzdoN09IQklZa2FpbjM4Q2ZlcUZXMVJVb1c3QXRJMVVjUXlNS2hQdmUydUFJaU1xUTF3ZnV3UmhMYVRMWlEwcURQdEFvQWxIc1RXVjRqa0JnPT0K",
-      "url": "https://github.com/adaline-hub/nymiria-updates/releases/download/v1.0.7/Nymiria.app.tar.gz"
-    },
-    "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRdlNTU1k3RmZkaHZiNkx1UmZWS2JaZkEvT3daSWdrZFZrTG1uMU5rc0tZMW9tZmw0ZFI3bmRQMzluS0pFMExVMndWZFhqVHdsZ1QyWmdodVJycmcvVUgvZERuaXp0c0FRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2MTQ0MDY1CWZpbGU6TnltaXJpYV8xLjAuN19hbWQ2NC5BcHBJbWFnZQo5NEw4amVyUGozNXVpN3AxSmFPR01FM2M5ZE9qRmJ5MlkzTUc1OUEzNE84OStQV1plSkp3RytHNVBUYkRJcTh4Mks4dEdrRlUyZHRhOXdvbCsyMkRDZz09Cg==",
-      "url": "https://github.com/adaline-hub/nymiria-updates/releases/download/v1.0.7/Nymiria_1.0.7_amd64.AppImage"
-    },
-    "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRdlNTU1k3RmZkaHQ5Y3VRMVFaVlljU1ZNc3pyVGREY0FpbXAzTEZ4NWdNQXRQTmI1T1QzbTRwcTJPM3VIbW9QZ04vRS91ZDVjdlhqRnlWVDQwaXNkK04rT3h6M0VTUkFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2MTQ0Mjk1CWZpbGU6TnltaXJpYV8xLjAuN194NjQtc2V0dXAuZXhlCjh3WFcrZFhuclpMd3kzTWRTRmgvVGYyNVFva1kzYzRzTEYrd1Z1aGQ3b0JZWExwTkQvOUFWdS9LZTJrS0d6RHBxRmJseDJEMG1vMXYrampheUhoVUJnPT0K",
-      "url": "https://github.com/adaline-hub/nymiria-updates/releases/download/v1.0.7/Nymiria_1.0.7_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRdlNTU1k3RmZkaG91NEFyUmpXTnV6WDhZaHVYdGtRVk9QREtjbGVZZzNBOFVkV2VvZWgrdmtvT2I3NnpvR3dmdEpQQUF5N1VJYjFRK1l4VFdJelc3WVEvelJKQzFJWHdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2MjkxNDI3CWZpbGU6TnltaXJpYS5hcHAudGFyLmd6CkJaUG9SeUxRZ05XdjFZN0NFSllNUEx1TmtVVlpPUUVlbEY5Z0JPZVdrY2dGSm9WeFFvYkRrMm4xRUwwT1pNV1JOcFZyNWRPbFM1T0xDODdwQy9kMkRRPT0K",
+      "url": "https://github.com/adaline-hub/nymiria-updates/releases/download/v1.0.8-beta.1/Nymiria.app.tar.gz"
     }
   }
 }
