@@ -1,11 +1,11 @@
 {
-  "version": "1.0.8-beta.4",
-  "notes": "Beta 1.0.8-beta.4 — internal testing build.",
-  "pub_date": "2026-04-16T07:20:40Z",
+  "version": "1.0.8",
+  "notes": "Nymiria 1.0.8 — see release notes on GitHub.",
+  "pub_date": "2026-04-16T08:33:22Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRdlNTU1k3RmZkaGliRDdjZHZLT0t0Q1dBeTcyQlNiY04rcHpsSmk2aWpJdkhBRmdUSmlWdEFUM1FvaVQ2OW1lNDhzb2ZaSXpKWlZJdi9lQUtlZ3pEbnJqNHFEdmFCV2dBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2MzI0MDM1CWZpbGU6TnltaXJpYS5hcHAudGFyLmd6CllIK01xY2dsNTl1bHJGL3JRNC9OYXpMdW9pall1ZnlsM0VDVDJYTTZ1N1pHYlBPaHFiYnVQNVZ1WTMzQ1dXTUZjOHJSanE1d3hpV1lWVHRGVGRWUkJRPT0K",
-      "url": "https://github.com/adaline-hub/nymiria-updates/releases/download/v1.0.8-beta.4/Nymiria.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRdlNTU1k3RmZkaHR0L3V1VEg5azZHS29oVnpIczVEcUVCUXIyNW94dVpIMU9PNkF0S1ZYSUVqTFd3SlNXTU90dDVick1lNG9TbTVQdHpiQmF0V2dJRWs3ajNMUGZwakFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2MzI4Mzk3CWZpbGU6TnltaXJpYS5hcHAudGFyLmd6CkgwNGFhZk5ESCtwalN5ZGZGWDZXK1RKSDA2YTZPdU1zVzVHVUlOT1ZibE5UbWU2Q0FDTGV4b1k4Zk51RXRaWTBvQmFjN1JBcU4wdXNEdG4zWDc2ZEFBPT0K",
+      "url": "https://github.com/adaline-hub/nymiria-updates/releases/download/v1.0.8/Nymiria.app.tar.gz"
     }
   }
 }
