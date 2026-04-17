@@ -1,0 +1,22 @@
+{
+  "version": "1",
+  "updated": "2026-04-17",
+  "_comment": "Add new models here — no app update required. Models already hardcoded in models.ts are skipped (hardcoded wins on metadata). Format: id, displayName, contextWindow (tokens), outputCostPer1M (USD), supportsThinking (bool).",
+  "providers": {
+    "claude": {
+      "models": [
+        { "id": "claude-haiku-4-5",  "displayName": "Haiku 4.5",  "contextWindow": 200000, "outputCostPer1M": 1.25,  "supportsThinking": false },
+        { "id": "claude-sonnet-4-6", "displayName": "Sonnet 4.6", "contextWindow": 200000, "outputCostPer1M": 15.0,  "supportsThinking": true  },
+        { "id": "claude-opus-4-6",   "displayName": "Opus 4.6",   "contextWindow": 200000, "outputCostPer1M": 75.0,  "supportsThinking": true  },
+        { "id": "claude-opus-4-7",   "displayName": "Opus 4.7",   "contextWindow": 200000, "outputCostPer1M": 75.0,  "supportsThinking": true  }
+      ]
+    },
+    "gemini": {
+      "models": [
+        { "id": "gemini-2.0-flash", "displayName": "Flash 2.0", "contextWindow": 1000000, "outputCostPer1M": 0.30,  "supportsThinking": false },
+        { "id": "gemini-2.5-flash", "displayName": "Flash 2.5", "contextWindow": 1000000, "outputCostPer1M": 0.30,  "supportsThinking": true  },
+        { "id": "gemini-2.5-pro",   "displayName": "2.5 Pro",   "contextWindow": 1000000, "outputCostPer1M": 10.00, "supportsThinking": true  }
+      ]
+    }
+  }
+}
