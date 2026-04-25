@@ -1,11 +1,19 @@
 {
   "version": "1.0.27",
-  "notes": "Nymiria 1.0.27 — see release notes on GitHub.",
-  "pub_date": "2026-04-24T21:44:41Z",
+  "notes": "Nymiria 1.0.27 — Windows, Linux, and macOS.",
+  "pub_date": "2026-04-25T04:43:35Z",
   "platforms": {
     "darwin-aarch64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRdlNTU1k3RmZkaGdHd3lVRjNMNFQza29KcHlnQWhPejE3RW5TcmVpa0VMekpVMTFFT0liYXBRUkZDUXloajZMVndibytTZHlxL2wvZTMvelZubzBHakdLZ0Rta2FUUUFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3MDY3MDUwCWZpbGU6TnltaXJpYS5hcHAudGFyLmd6CndNUmxJVEh4cFlTUUR1eFNGQ0xSVnZmRk1LUGJCbytSN0tvZElId3ZZdTQ4QmJrNXdmbkYrVVVnYng2OUl5MTdWNHVMcTllMXlVNG9Ic3ZNV2tTZEF3PT0K",
       "url": "https://github.com/adaline-hub/nymiria-updates/releases/download/v1.0.27/Nymiria.app.tar.gz"
+    },
+    "linux-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRdlNTU1k3RmZkaHNtMUZqeWlleFZ6NUZ0bWNER2U1OFhjVDI0V2poeUR0SXc2OWdFa3N3bXZQMlp1bjFLcE8xektYNlBNSUxRU2N2UkFHdUtkQXljU2hNbFQ3V0ZWZXcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3MDkyMDAxCWZpbGU6TnltaXJpYV8xLjAuMjdfYW1kNjQuQXBwSW1hZ2UKVExkd1R4N1hIWnJpMmIzY0dYNTR5MDU1cm9zeGNLQVJ4ak1MYTJtVUZRSkpiYWprT3hVVEhWZlc0Y0FwVmk2eUpJblArUVRVY2FOdXZRKzFXRFEyRFE9PQo=",
+      "url": "https://github.com/adaline-hub/nymiria-updates/releases/download/v1.0.27/Nymiria_1.0.27_amd64.AppImage"
+    },
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRdlNTU1k3RmZkaHZTSzM1WFZvUGovcWR2RmJpL1pKUkF1TVhwZHNzcW5iSWd6WDdPOWJkQ3g3SzEwVDZTMlVhVzBJS281YS8xaHcrT2dsQVNTQ3ZjQU1sZVVDS1JXZGdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3MDkyMDM1CWZpbGU6TnltaXJpYV8xLjAuMjdfeDY0LXNldHVwLmV4ZQoxSnBhMFJ5cm9hTFEvZEU5SS9SVHJISnVkSmMvbU0rblJXTk5YRHVvVHpBS3JMZVpxZ1ZtdmdIK2hVdTBTU1VBNDVsNWMyN1YzZUtUY1dPOW4vS09Cdz09Cg==",
+      "url": "https://github.com/adaline-hub/nymiria-updates/releases/download/v1.0.27/Nymiria_1.0.27_x64-setup.exe"
     }
   }
 }
