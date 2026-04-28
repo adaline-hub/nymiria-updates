@@ -1,19 +1,11 @@
 {
   "version": "1.0.31",
-  "notes": "See the assets for this release to download and install.",
-  "pub_date": "2026-04-28T02:37:05Z",
+  "notes": "Nymiria 1.0.31 — see release notes on GitHub.",
+  "pub_date": "2026-04-28T05:17:08Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRdlNTU1k3RmZkaG1YMldhMUVYamxhSnZvVi9SS0NBNUIrS3BYOFplZW1jVnRLdE1nczd0YkE0SEhDL1FWSWU0YXE2dnlMenlNcTBCaGJ5L05nZ3dlS0NzdWYzZHFEMFFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3MzQxODI1CWZpbGU6TnltaXJpYS5hcHAudGFyLmd6Cjg1aXVuVDNlMVpDS29sTSs3bnJiR0VrVWdTL2w3azk3V0xuOWpxUUtYMXFPZW51S1J5K29vakVIQ2J1Tm9xOFFYbnFubjM1d1hqSVg0U3pFd1hSWkF3PT0K",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRdlNTU1k3RmZkaHY0TFJSaGFCUVF3TFlFNkZKamMvb3hFT1hISGlLbmNTOHgvbXhDRTJoK1owWW1EQWVOdzMyazAvd1hTOE9MTFd1YjFyeDcrRWd4RStPSzljVm9TM2djPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3MzUzNDE5CWZpbGU6TnltaXJpYS5hcHAudGFyLmd6CmM5bkVJUlFlUFhhbURqWGNNc2o2SFZsMW11Z09OMUJ4emVJTnE2REtSQUp1d0ZmS1F0dU54YVRtYm9hajg0Nm03b0FZeExjVHMwZ3BkbzZDZy94WkNnPT0K",
       "url": "https://github.com/adaline-hub/nymiria-updates/releases/download/v1.0.31/Nymiria.app.tar.gz"
-    },
-    "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRdlNTU1k3RmZkaGtmSStmcDU5Q0FvMWJzdnJZNytWL3ZnM1B2OEhUZHE5NnRwakEwck1DSUJ3Rjd6bm50UXgzR256ZmhIaVhSbkFqdjIzeUQ2NjJHY2pwdEdldUlOL1EwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3MzQyNDAyCWZpbGU6TnltaXJpYV8xLjAuMzFfYW1kNjQuQXBwSW1hZ2UKTTgyVUU3aGJxMVY3dTViZmFHQmg4dTlFbnZ5Nkw1SXFZNi9ISDllUjh1Y05vcmlkZkNoQUlhbVoxU1p4UGFhWllZd1VpdEljRi9DNUs2SG9TRmxIQWc9PQo=",
-      "url": "https://github.com/adaline-hub/nymiria-updates/releases/download/v1.0.31/Nymiria_1.0.31_amd64.AppImage"
-    },
-    "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRdlNTU1k3RmZkaHV6d3RYT1E3N2xxSHBMWmFTMXU1UVhkZ2J3SE1uZkNzZFI5ZkFTMXByTGl3UTZVK3UrTjRHWDhpL056S0xkQk9HRVRtRUZIUGRqdWlMKzV1c25aSWc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3MzQyMzU1CWZpbGU6TnltaXJpYV8xLjAuMzFfeDY0LXNldHVwLmV4ZQo0ME5OMEYxWmVJZC85eURxWFBaVk93eHBiRFhCaFVkb2ozWU5FUmgrSGVRVVFxZEpndG9EbUFFL0lxZ0lIK3hZV1VaVlFQZ3IvSXNlTnVkVWliWlBEZz09Cg==",
-      "url": "https://github.com/adaline-hub/nymiria-updates/releases/download/v1.0.31/Nymiria_1.0.31_x64-setup.exe"
     }
   }
 }
