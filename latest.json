@@ -1,10 +1,10 @@
 {
   "version": "1.0.53",
   "notes": "Nymiria 1.0.53 — see release notes on GitHub.",
-  "pub_date": "2026-05-07T05:20:52Z",
+  "pub_date": "2026-05-07T06:06:45Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRdlNTU1k3RmZkaHNsRUVuR1EzMUJqSHJ1bXJ2M0lhYzJSWmhSbVR3S2pYNkU3SDU3dVovK2piZ3BqZ1AvRkJwVnNjUUxocnY0M2xaK1ArMXErdzRHbC9mTWJUQTJMNHc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4MTMxMjM0CWZpbGU6TnltaXJpYS5hcHAudGFyLmd6CkszUU9YdjBTOFNpTHVWOEJXNzMreFVkLy90dGRyL0xyeHVvUTlxQmRhNUliYjBYSHpZRmQ3aXFKeUlUd0ZqL29BaUpJUnJhSHltQW52TVBjV3ExdUFnPT0K",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRdlNTU1k3RmZkaG5VUXJpRjJVMDNPc0VVdnNVMW5CLzVvS0MvL2NKU3REb2I4T1J2SFBQSHRwemtZVWNWRThwVFFrSCt0YzJtNS83cm4rOWRnNDFITVQ0d3UrUTNFeEFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4MTMzOTg4CWZpbGU6TnltaXJpYS5hcHAudGFyLmd6CktJWWUvNnRMczMrejVhSnlWS0dkTHR3ZGJld1FhY1pERVFrZmN2OVI4eXJsZ000WlpRQ0xOR2VPMVJVNlpYb25aUUFjcEVRZ0ZLa3lmMVNKUG9adkF3PT0K",
       "url": "https://github.com/adaline-hub/nymiria-updates/releases/download/v1.0.53/Nymiria.app.tar.gz"
     }
   }
