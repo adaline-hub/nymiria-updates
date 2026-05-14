@@ -6,6 +6,14 @@
     "darwin-aarch64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRdlNTU1k3RmZkaG1ZL08zNDk2c211aUFmNE1JU3crTzliRy9tVVZuaXdjeEwxKzArSi9QRjRpT2FzemFvc2g5eWoxUXFTM2IreEptMnNGdGxrTXBYc3FJSWwwc29DQ1FvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4Nzg4Mjg2CWZpbGU6TnltaXJpYS5hcHAudGFyLmd6Ck55d2t3L081d0FQZXVRNmlQdzJVSWhKMFI5bE5BakFZK2lSYi81QW9QeWJ3cGt2V3h5eEtaa1JYS1RaRlRicGZTQmkzTHJuejlGa3ppLzZUTXZNbEJRPT0K",
       "url": "https://github.com/adaline-hub/nymiria-updates/releases/download/v1.0.81/Nymiria.app.tar.gz"
+    },
+    "linux-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRdlNTU1k3RmZkaHJiTGhkS3dDRit5RVNWSnFrMWdRNjEvaW0xZXZGTm1wT2RaSGlEUTZXM3BIWTJ6RVNXbUZFVEFuT2FsdlIwTXZjTCtVSzFDOG9KNER2U2RPc3NSRVE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4Nzg5NjkzCWZpbGU6TnltaXJpYV8xLjAuODFfYW1kNjQuQXBwSW1hZ2UKWmJocnhxY256MTFUSkxnSzdpbGc5VG9qRmFtOHo0VGdaZmFYc2htTVRRVmJuVVIvQmZlTVFVZUR1SlRaNm5pQjBLdEJHSUZLMlByWjB4Z3BsVG83Qmc9PQo=",
+      "url": "https://github.com/adaline-hub/nymiria-updates/releases/download/v1.0.81/Nymiria_1.0.81_amd64.AppImage"
+    },
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRdlNTU1k3RmZkaGpFejJzQVpBRmRTSVlSVTBkcGJtcnFYaDlXclB5MmJtL1F4L29GbGZZUnVrMHdWbFY2YWQzZTV2ZVFtTGZqSUdmK1FBdERscnRwMGZDK0pndzlHK0FFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4NzkwMTQ4CWZpbGU6TnltaXJpYV8xLjAuODFfeDY0LXNldHVwLmV4ZQp6b2hmRzk3VUltYms4eU1CTGpubXY0QnNLckMzZFp0azQ3clVXanZaNVBYYUhBd0JlVVZHSkd6QTQ4M2cvTnB1RzJGcjM1MG9zdExKZnFJWTBKV0tDZz09Cg==",
+      "url": "https://github.com/adaline-hub/nymiria-updates/releases/download/v1.0.81/Nymiria_1.0.81_x64-setup.exe"
     }
   }
 }
